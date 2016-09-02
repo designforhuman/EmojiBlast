@@ -365,6 +365,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 35TJL4Y5T9;
 				INFOPLIST_FILE = EmojiBlast/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.daylightdesign.EmojiBlast;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
@@ -379,6 +380,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 35TJL4Y5T9;
 				INFOPLIST_FILE = EmojiBlast/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.daylightdesign.EmojiBlast;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_VERSION = 3.0;
@@ -405,6 +407,7 @@
 				540C73161D79918000F66819 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		540C73181D79918000F66819 /* Build configuration list for PBXNativeTarget "EmojiBlast" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +416,7 @@
 				540C731A1D79918000F66819 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
